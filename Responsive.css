@@ -1,0 +1,437 @@
+@media (max-width:450px) {
+
+    .aaa {
+        font-size: 9px;
+    }
+
+
+    .hpp {
+        width: 350px;
+        height: auto;
+        margin-top: 5%;
+        margin-bottom: 5%;
+        border-radius: 25px;
+    }
+
+    .hpp:hover {
+        width: 380px;
+        height: 130px;
+    }
+
+    .aa {
+        font-size: 13px;
+        width: 350px;
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+
+    .c {
+        font-size: 9px;
+    }
+
+    .ay:hover {
+        font-size: 20px;
+        color: lightgreen;
+    }
+
+    .Butt {
+        width: 60px;
+        height: 20px;
+        border: solid transparent;
+        font-size: 5px;
+    }
+
+    .Butt:hover {
+        background-color: black;
+        color: #fff;
+    }
+
+    .k {
+        width: 300px;
+        height: 150px;
+    }
+
+    .ayy {
+        font-size: 15px;
+        text-align: right;
+    }
+
+    .tps {
+        width: 330px;
+    }
+
+    .tps:hover {
+        width: 330px;
+    }
+
+    .ABS {
+        width: 330px;
+    }
+
+    .CS {
+        width: 1100px;
+    }
+
+    .ca {
+        width: 330;
+    }
+
+    .caaa {
+        width: 330px;
+    }
+
+    .caa {
+        width: 330px;
+        justify-content: center;
+        text-align: center;
+        margin-left: 6%;
+        font-size: 10px;
+    }
+
+    nav .i {
+        height: 80px;
+        width: 100px;
+        border-radius: 50%;
+    }
+
+    .ay {
+        font-size: 15px;
+        display: inline;
+    }
+
+    .flogo {
+        height: 100px;
+        width: 100px;
+        border: 3px solid lightblue;
+    }
+
+    .col {
+        font-size: 10px;
+    }
+
+    .col h2 {
+        font-size: 15px;
+    }
+
+    .col b {
+        font-size: 10px;
+    }
+
+    .fimg {
+        width: 100px;
+        height: 40px;
+    }
+
+    .FollowUS {
+        height: 25px;
+        width: 25px;
+
+    }
+
+    .FollowUS:hover {
+        height: 35px;
+        width: 35px;
+    }
+
+    .cards {
+        width: 300px;
+        height: 600px;
+    }
+
+    .title h1 {
+        font-size: 20px;
+    }
+
+    .ttdd {
+        font-size: 1px;
+    }
+
+    .slogo {
+        width: 20px;
+        height: 20px;
+    }
+
+    .Stable {
+        margin-left: 15%;
+        justify-content: center;
+    }
+
+    .main1 {
+        font-size: 25px;
+    }
+
+    .But {
+        margin-top: 20%;
+        text-decoration: none;
+        text-align: center;
+        font-size: 10px;
+        width: 100px;
+        height: 20px;
+        color: black;
+        font-weight: bold;
+        padding-bottom: 15PX;
+        border: 1px solid black;
+        position: relative;
+    }
+
+    .But::before,
+    .But::after {
+        content: "";
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        border: inherit;
+        transition: all .5s;
+    }
+
+    .But::before {
+        top: -15px;
+        left: -15px;
+        border-width: 3px 0 0 3px;
+    }
+
+    .But::after {
+        bottom: -15px;
+        right: -15px;
+        border-width: 0 3px 3px 0;
+    }
+
+    .But:hover::before,
+    .But:hover::after {
+        width: calc(100% + 27px);
+        height: calc(100% + 27px);
+    }
+
+    .But:hover {
+        background-color: black;
+        color: #fff;
+    }
+
+    .CS {
+        width: 350px;
+        height: 200px;
+    }
+
+    .main2 {
+        font-size: 25px;
+    }
+
+    .caaa {
+        text-align: center;
+        justify-items: center;
+        width: 320px;
+        font-size: 10px;
+    }
+
+    .ca {
+        width: 300px;
+        font-size: 15px;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .caa h1 {
+        font-size: 15px;
+    }
+
+    .ul1 {
+        font-size: 10px;
+        margin-left: 7%;
+        text-align: left;
+        list-style: square;
+    }
+
+    .ABS {
+        width: 350px;
+        height: 200px;
+        border-radius: 50px;
+    }
+
+    .Form form .Userdetails {
+        display: block;
+    }
+
+    /* properties for Outside for form  */
+    .FromOutside {
+        height: auto;
+        width: auto;
+    }
+
+    .From_Title {
+        font-size: 15px;
+        color: red;
+    }
+
+    form .Userdetails .InputBox {
+        width: auto;
+        height: auto;
+    }
+
+
+    .InputBox .message {
+        height: auto;
+        width: auto;
+    }
+
+    #Button1 {
+        margin-left: 9%;
+        font-size: 10px;
+        padding: 2px;
+
+    }
+
+    .Userdetails .InputBox .Details {
+        font-size: 15px;
+    }
+
+    .Userdetails .InputBox input {
+        height: 30px;
+        width: auto;
+    }
+
+    .InputBox select {
+        height: 30px;
+        width: 200px;
+    }
+
+    .FollowUS:hover {
+        width: 30px;
+        height: 30px;
+    }
+
+    .hscroll div p {
+        font-size: 9px;
+    }
+
+    .cus {
+        width: auto;
+    }
+
+    .cus .Form {
+        width: 300px;
+    }
+
+    .radii {
+        width: auto;
+        font-size: 10px;
+        margin-left: 0;
+        margin-bottom: 2%;
+    }
+
+    #From4 {
+        width: auto;
+    }
+
+    .Buttt {
+        font-size: 10px;
+        width: auto;
+        height: auto;
+    }
+
+    .txtar {
+        font-size: 10px;
+    }
+
+    .ca {
+        width: 300px;
+        padding: 0;
+        text-align: center;
+        margin: 0%;
+        margin-bottom: 2%;
+    }
+
+    .cu {
+        width: auto;
+    }
+
+    .cu:hover {
+        width: auto;
+        height: auto;
+    }
+
+    .ccc {
+        flex-direction: column;
+        padding: 0;
+    }
+
+    .CUD h1 {
+        margin: 0%;
+    }
+
+    .CUD {
+        width: auto;
+        height: auto;
+        margin: 0;
+    }
+
+    .CUD h1 {
+        font-size: 20px;
+        margin-bottom: 5%;
+    }
+
+    .office {
+        height: auto;
+        width: 350px;
+        margin-bottom: 20%;
+        margin-left: -10%;
+        height: 200px;
+        background: url('Images/Sub Pages/OFF1.png');
+    }
+    .office p
+    {
+        font-size: 15px;
+    }
+   
+    .CUDD {
+        height: auto;
+        width: 350px;
+        height: 200px;
+        margin-left: -10%;
+        background: url('Images/Sub Pages/CU1.png');
+
+    }
+    
+    .CUDD p
+    {
+        font-size: 15px;
+    }
+    #buu {
+        margin: 0%;
+    }
+}
+
+@media (max-width:850px) {
+    .ccc {
+        flex-direction: column;
+        margin-left: -10%;
+    }
+
+    .cu {
+        height: auto;
+        width: auto;
+    }
+    
+
+    .office {
+        margin-bottom: 5%;
+    }
+
+    .cus
+    {
+        height: auto;
+    }
+}
+
+@media (max-width:1300px)
+{
+    .ccc {
+        flex-direction: column;
+        margin-left: 0;
+    }
+    .office
+    {
+       margin-bottom: 5%;
+    }
+
+}
+
